@@ -1,0 +1,11 @@
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/bin/Debug/netcoreapp2.1/helloworld.deps.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/bin/Debug/netcoreapp2.1/helloworld.runtimeconfig.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/bin/Debug/netcoreapp2.1/helloworld.runtimeconfig.dev.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/bin/Debug/netcoreapp2.1/helloworld.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/bin/Debug/netcoreapp2.1/helloworld.pdb
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/obj/Debug/netcoreapp2.1/helloworld.csprojAssemblyReference.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/obj/Debug/netcoreapp2.1/helloworld.csproj.CoreCompileInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/obj/Debug/netcoreapp2.1/helloworld.AssemblyInfoInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/obj/Debug/netcoreapp2.1/helloworld.AssemblyInfo.cs
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/obj/Debug/netcoreapp2.1/helloworld.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/helloworld/obj/Debug/netcoreapp2.1/helloworld.pdb
