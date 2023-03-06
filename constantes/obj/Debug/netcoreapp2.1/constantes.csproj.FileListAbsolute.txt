@@ -1,0 +1,13 @@
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/bin/Debug/netcoreapp2.1/constantes.deps.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/bin/Debug/netcoreapp2.1/constantes.runtimeconfig.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/bin/Debug/netcoreapp2.1/constantes.runtimeconfig.dev.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/bin/Debug/netcoreapp2.1/constantes.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/bin/Debug/netcoreapp2.1/constantes.pdb
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.csproj.CoreCompileInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.AssemblyInfoInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.AssemblyInfo.cs
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.pdb
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.csproj.AssemblyReference.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/constantes/obj/Debug/netcoreapp2.1/constantes.genruntimeconfig.cache
