@@ -1,0 +1,11 @@
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/bin/Debug/netcoreapp2.1/logicOperators.deps.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/bin/Debug/netcoreapp2.1/logicOperators.runtimeconfig.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/bin/Debug/netcoreapp2.1/logicOperators.runtimeconfig.dev.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/bin/Debug/netcoreapp2.1/logicOperators.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/bin/Debug/netcoreapp2.1/logicOperators.pdb
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/obj/Debug/netcoreapp2.1/logicOperators.csprojAssemblyReference.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/obj/Debug/netcoreapp2.1/logicOperators.csproj.CoreCompileInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/obj/Debug/netcoreapp2.1/logicOperators.AssemblyInfoInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/obj/Debug/netcoreapp2.1/logicOperators.AssemblyInfo.cs
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/obj/Debug/netcoreapp2.1/logicOperators.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/logicOperators/obj/Debug/netcoreapp2.1/logicOperators.pdb
