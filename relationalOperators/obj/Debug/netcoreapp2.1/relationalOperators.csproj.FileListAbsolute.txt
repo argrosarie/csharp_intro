@@ -1,0 +1,11 @@
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/bin/Debug/netcoreapp2.1/relationalOperators.deps.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/bin/Debug/netcoreapp2.1/relationalOperators.runtimeconfig.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/bin/Debug/netcoreapp2.1/relationalOperators.runtimeconfig.dev.json
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/bin/Debug/netcoreapp2.1/relationalOperators.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/bin/Debug/netcoreapp2.1/relationalOperators.pdb
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/obj/Debug/netcoreapp2.1/relationalOperators.csprojAssemblyReference.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/obj/Debug/netcoreapp2.1/relationalOperators.csproj.CoreCompileInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/obj/Debug/netcoreapp2.1/relationalOperators.AssemblyInfoInputs.cache
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/obj/Debug/netcoreapp2.1/relationalOperators.AssemblyInfo.cs
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/obj/Debug/netcoreapp2.1/relationalOperators.dll
+/home/rosarie/Escritorio/newall/backendc/intro/csharp_intro/relationalOperators/obj/Debug/netcoreapp2.1/relationalOperators.pdb
