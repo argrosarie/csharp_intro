@@ -15,6 +15,9 @@ namespace logicOperators
 
             bool resultOr = value1 || value2 || value3;
             Console.WriteLine(resultOr);
+            // Xor es true si son distintos
+            bool resultXor = value1 ^ value2;
+            Console.WriteLine(resultXor);
 
         }
     }
